@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class NotOrtHesaplama {
     public static void main(String[] args) {
-        System.out.println("OrtHesaplama");
+        System.out.println("Ortalama Hesaplama");
         Scanner input = new Scanner(System.in);
         double turkce, matematik, fizik, kimya, biyoloji, tarih;
         System.out.print("Türkçe notunuzu giriniz: ");
